@@ -1,0 +1,167 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Unbounded', cursive;
+    background: linear-gradient(270.35deg, rgba(167, 121, 189, 0.63) 0.3%, 
+    rgba(255, 71, 71, 0.63) 99.7%);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+}
+.image__my-photo {
+    display: block;
+    align-items: flex-start;
+    width: 171px;
+    height: 172px;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+}
+.header-line {
+    position: absolute;
+    width: 100%;
+    height: 10px;
+    top: 116px;
+    background: linear-gradient(180deg, #000000 0%, #FB8888 100%);
+    z-index: -1;
+}
+.cat1 {
+    position: absolute;
+    width: 131px;
+    height: 86px;
+    left: 836px;
+    top: 43px;
+    margin-right: 30px;
+}
+.block__header-text {
+    position: relative;
+    width: 320px;
+    height: 54px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(217, 217, 217, 0.38);
+    border-radius: 40px;
+}
+.header__title {
+    text-align: center;
+    width: 252px;
+    height: 19px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 311px;
+    height: 55px;
+    margin-top: 72px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #000000;
+    border-radius: 60px;
+}
+.link1 {
+    font-size: 24px;
+}
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 311px;
+    height: 55px;
+    margin-top: 72px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #000000;
+    border-radius: 60px;
+}
+.link2 {
+    font-size: 24px;
+}
+.container3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 311px;
+    height: 55px;
+    margin-top: 72px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #000000;
+    border-radius: 60px;
+}
+.link3 {
+    font-size: 24px;
+}
+.container4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 311px;
+    height: 55px;
+    margin-top: 72px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #000000;
+    border-radius: 60px;
+}
+.link4 {
+    font-size: 24px;
+}
+.container5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 311px;
+    height: 55px;
+    margin-top: 72px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #000000;
+    border-radius: 60px;
+}
+.link5 {
+    font-size: 24px;
+}
+
+.cat3 {
+    position: absolute;
+    width: 381px;
+    height: 340px;
+    left: 213px;
+    top: 706px;
+    background: url(117-1178442_cat-sticker-cute-cat-cartoon-wallpaper-hd-hd.jpg);
+    background-blend-mode: darken;
+}
+.cat4 {
+    position: absolute;
+    width: 285px;
+    height: 306px;
+    left: 860px;
+    top: 748px;
+
+    background: url(2fb750e4752038e666690a91ec374b7c.jpg);
+    background-blend-mode: darken;
+}
+
